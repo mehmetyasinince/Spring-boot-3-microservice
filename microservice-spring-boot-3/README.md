@@ -1,1 +1,1 @@
-"# Spring-boot-3-microservice" 
+Sırasıyla çalıştırmanız çok önemli ilk olarak CONFIG-SERVER SONRASINDA SIRASIYLA SERVICE-REGISTRY, API-GATEWAY, LESSON-SERVICE VE STUDENT-SERVICE sırasıyla çalıştırırsanız sorunsuz test edebilirsiniz.
